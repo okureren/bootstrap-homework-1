@@ -6,5 +6,5 @@ Y. Eren Okur
 
 ## Description:
 
-Bootstrap first homework [Patika](https://www.patika.dev/)
+Bootstrap first homework [Patika](https://www.patika.dev/) 
 
